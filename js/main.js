@@ -55,4 +55,4 @@ if(localStorage.getItem('user')){
    login(JSON.parse(localStorage.getItem('user')));
 }
   login(user);
-});.setItem
+});
